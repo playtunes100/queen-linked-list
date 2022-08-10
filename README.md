@@ -1,4 +1,4 @@
-# Queen-linked-list
+# Development
 A python implementation of a multi linked list
 
 ## What is it?
